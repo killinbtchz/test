@@ -52,7 +52,7 @@ export default {
 
 <style scoped>
 .chat-window {
-  padding: 15px;
+  padding: 16px;
   height: calc(100vh - 60px);
 }
 .chat-window .messages {
