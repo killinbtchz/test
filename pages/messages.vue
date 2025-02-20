@@ -108,12 +108,3 @@ export default {
 };
 </script>
 
-<style>
-.app {
-  display: flex;
-}
-.content {
-  flex: 1;
-  display: flex;
-}
-</style>
