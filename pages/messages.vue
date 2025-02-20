@@ -56,7 +56,7 @@ export default {
   mounted() {
     this.socket = io("http://localhost:3000");
     this.socket.on("connect", () => {
-      console.log("Connected to socket.io, ID:", this.socket.id);
+      console.log("Connected ID:", this.socket.id);
     });
 
     this.socket.emit("logged_in", { username: this.username });
