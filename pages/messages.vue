@@ -3,6 +3,7 @@
     <Sidebar />
     <div class="content">
       <h2>hello!</h2>
+      <h2>wazzyp</h2>
       <button @click="createChat">Создать чат</button>
       <ChatList :chats="chats" @chat-selected="setSelectedChat" />
       <ChatWindow
