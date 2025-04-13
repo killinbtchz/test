@@ -1,0 +1,1 @@
+import{_ as o}from"./W9ZKqL3Z.js";import{_ as n,c as a,a as r,b as s,w as _,F as c,o as d,d as l}from"./BZQT7TmL.js";const m={};function f(u,e){const t=o;return d(),a(c,null,[e[1]||(e[1]=r("h1",null,"Тестовая страница",-1)),s(t,{to:"/"},{default:_(()=>e[0]||(e[0]=[l("Главная")])),_:1})],64)}const p=n(m,[["render",f]]);export{p as default};
